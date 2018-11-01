@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketArena", "RocketArena.csproj", "{B84BE7E0-93B1-C475-0879-63A828AE9666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketArena.Plugins", "RocketArena.Plugins.csproj", "{6FC1D582-FF3A-0BC9-8A4C-76E6E1343834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketArena.Editor.Plugins", "RocketArena.Editor.Plugins.csproj", "{B41ABFE0-D62B-3547-8E43-EEDB806EBB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84BE7E0-93B1-C475-0879-63A828AE9666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84BE7E0-93B1-C475-0879-63A828AE9666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84BE7E0-93B1-C475-0879-63A828AE9666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84BE7E0-93B1-C475-0879-63A828AE9666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC1D582-FF3A-0BC9-8A4C-76E6E1343834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC1D582-FF3A-0BC9-8A4C-76E6E1343834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC1D582-FF3A-0BC9-8A4C-76E6E1343834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC1D582-FF3A-0BC9-8A4C-76E6E1343834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41ABFE0-D62B-3547-8E43-EEDB806EBB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41ABFE0-D62B-3547-8E43-EEDB806EBB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41ABFE0-D62B-3547-8E43-EEDB806EBB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41ABFE0-D62B-3547-8E43-EEDB806EBB95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e2d5db72eb37c5438b93cece2acc2b1
+timeCreated: 1518265263
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - syncVarController: {instanceID: 0}
+  - neblina: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

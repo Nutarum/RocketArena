@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: b5895370b988943428465a394dfe6023
+timeCreated: 1520601253
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: Armature
+    100004: Bala
+    100006: Bazooka
+    100008: brazoAbajo_L
+    100010: brazoAbajo_R
+    100012: brazoArriba_L
+    100014: brazoArriba_R
+    100016: cabeza
+    100018: Cube
+    100020: cuello
+    100022: //RootNode
+    100024: LegControl_L
+    100026: LegControl_R
+    100028: mano_L
+    100030: mano_R
+    100032: ManoDedosAbajo_L
+    100034: ManoDedosAbajo_R
+    100036: manoDedosArriba_L
+    100038: manoDedosArriba_R
+    100040: pecho
+    100042: pie_L
+    100044: pie_R
+    100046: pieDedos_L
+    100048: pieDedos_R
+    100050: pieDedosControll_L
+    100052: pieDedosControll_R
+    100054: piernaAbajo_L
+    100056: piernaAbajo_R
+    100058: piernaArriba_L
+    100060: piernaArriba_R
+    100062: pulgarAbajo_L
+    100064: pulgarAbajo_R
+    100066: pulgarArriba_L
+    100068: pulgarArriba_R
+    400000: abdomen
+    400002: Armature
+    400004: Bala
+    400006: Bazooka
+    400008: brazoAbajo_L
+    400010: brazoAbajo_R
+    400012: brazoArriba_L
+    400014: brazoArriba_R
+    400016: cabeza
+    400018: Cube
+    400020: cuello
+    400022: //RootNode
+    400024: LegControl_L
+    400026: LegControl_R
+    400028: mano_L
+    400030: mano_R
+    400032: ManoDedosAbajo_L
+    400034: ManoDedosAbajo_R
+    400036: manoDedosArriba_L
+    400038: manoDedosArriba_R
+    400040: pecho
+    400042: pie_L
+    400044: pie_R
+    400046: pieDedos_L
+    400048: pieDedos_R
+    400050: pieDedosControll_L
+    400052: pieDedosControll_R
+    400054: piernaAbajo_L
+    400056: piernaAbajo_R
+    400058: piernaArriba_L
+    400060: piernaArriba_R
+    400062: pulgarAbajo_L
+    400064: pulgarAbajo_R
+    400066: pulgarArriba_L
+    400068: pulgarArriba_R
+    2100000: Material_001
+    2100002: unnamed
+    2300000: Bala
+    3300000: Bala
+    4300000: Cube
+    4300002: Bazooka
+    4300004: Bala
+    7400000: Default Take
+    7400002: Idle
+    7400004: Walk_blocking
+    9500000: //RootNode
+    13700000: Bazooka
+    13700002: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk_blocking
+      takeName: Walk_blocking
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
