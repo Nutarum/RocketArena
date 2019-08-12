@@ -1,5 +1,7 @@
 # UNITY PROJECT
 
+Unity multiplayer online game
+
 Clone of the map Warlock from warcraft 3
 
-made in Unity as a school project
+made as a school project
